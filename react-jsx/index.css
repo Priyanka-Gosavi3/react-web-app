@@ -1,0 +1,30 @@
+#heading {
+    color:rgb(157, 123, 212);
+    background-color: rgb(208, 190, 155);
+    border:1px solid rgb(148, 24, 148);
+    text-align: center;
+}
+.iamge{
+    height: 50px;
+    width: 100px;
+    float: left;
+}
+.search{
+    width: 60%;
+    height: 30px;
+    border: 1px solid rgb(193, 157, 228);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.iconn{
+    height: 80px;
+    width: 80px;
+    float: right;
+}
+.title{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}

@@ -1,0 +1,14 @@
+1. What is JSX?
+-> JSX is html-like syntax.It stands for Javascript xml.
+-> It is a combination of html and javascript.
+
+2.Superpowers of JSX
+-> {} is a superpower of jsx.
+-> we can write any javascript code or expressions into {}.
+
+3.Role of type attribute in script tag? What options can I use there?
+->The type attribute in the script tag tells the browser what kind of script is being used.
+
+4.{TitleComponent} vs {<TitleComponent/>} vs {<TitleComponent></TitleComponent>} in JSX
+-> {TitleComponent} gives function reference,does not render.
+-> {<TitleComponent/>} vs {<TitleComponent></TitleComponent>} are the same way to render the component.
