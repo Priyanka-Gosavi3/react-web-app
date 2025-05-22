@@ -1,0 +1,41 @@
+.main-container {
+    display: flex;
+    justify-content: space-between;
+    border:1px solid rgb(142, 172, 235);
+  }
+  .logo
+  {
+    width: 4%;
+    height: 100%;
+  }
+  .nav-items
+  {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    gap:20px;
+    align-content: center;
+    margin-right: 2rem;
+  }
+  .res-card{
+    border: 1px solid gray;
+    width: 10%;
+  margin-top: 1rem;
+    background-color: lavender;
+  
+  }
+  .res-card:hover {
+    border: 2px solid gray;
+  }
+  .card-body-container
+  {
+    display: flex;
+    flex-wrap: wrap;
+   gap: 20px;
+  }
+  .res-card img {
+    width: 100%;
+     height: 150px;
+    object-fit: cover;
+   display: block;
+  }
